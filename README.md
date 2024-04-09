@@ -30,7 +30,7 @@ Graphics https://www.canva.com/
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE. Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
-##Contact 
+## Contact 
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us at karolina.soroczynska.app@gmail.com.
 Thank you for your interest in my cybersecurity courses website project. I hope you find it informative and useful on your cybersecurity journey!
 
