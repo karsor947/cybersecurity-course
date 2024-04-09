@@ -25,7 +25,7 @@ Provide Feedback: I welcome feedback from users to improve the website. If you e
 
 ## Resources
 Quiz https://www.sitepoint.com/simple-javascript-quiz/
-Graphics form https://www.canva.com/
+Graphics https://www.canva.com/
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE. Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
