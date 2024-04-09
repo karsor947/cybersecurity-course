@@ -10,9 +10,7 @@ Learning Resources: Access a curated collection of articles, tutorials, and vide
 Tools and Utilities: Explore a range of tools and utilities designed to assist in cybersecurity tasks, including vulnerability scanners, password generators, and network analysis tools.
 
 ## Technologies and tools
-HTML | SCSS | JavaScript
-Figma | Canva
-Visual Studio Code
+HTML | SCSS | JavaScript | Figma | Canva | Visual Studio Code
 
 ## Getting Started
 
@@ -31,9 +29,8 @@ Graphics form https://www.canva.com/
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE. Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
-Contact Us
 
+##Contact 
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us at karolina.soroczynska.app@gmail.com.
-
 Thank you for your interest in my cybersecurity courses website project. I hope you find it informative and useful on your cybersecurity journey!
 
